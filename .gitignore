@@ -6,3 +6,4 @@ codekit-config.json
 node_modules
 .sass-cache
 .jekyll-metadata
+/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.23/ext/ffi_c/libffi-i386/include/ffitarget.h
