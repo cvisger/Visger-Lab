@@ -9,7 +9,7 @@ search: true
 url: https://cvisger.github.io/Visger-Lab
 
 # Jekyll configuration
-
+remote_theme: "mmistakes/so-simple-theme"
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge

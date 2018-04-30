@@ -1,0 +1,17 @@
+"pkg-config --exists libffi"
+dyld: Symbol not found: __cg_png_create_info_struct
+  Referenced from: /System/Library/Frameworks/ImageIO.framework/Versions/A/ImageIO
+  Expected in: /Users/clayton.visger/miniconda3/lib/libPng.dylib
+ in /System/Library/Frameworks/ImageIO.framework/Versions/A/ImageIO
+package configuration for libffi is not found
+"x86_64-apple-darwin13.4.0-clang -o conftest -I/Users/clayton.visger/miniconda3/include/ruby-2.4.0/x86_64-darwin13 -I/Users/clayton.visger/miniconda3/include/ruby-2.4.0/ruby/backward -I/Users/clayton.visger/miniconda3/include/ruby-2.4.0 -I. -D_FORTIFY_SOURCE=2 -mmacosx-version-min=10.9 -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -fno-common conftest.c  -L. -L/Users/clayton.visger/miniconda3/lib -L. -Wl,-pie -Wl,-headerpad_max_install_names -Wl,-rpath,/Users/clayton.visger/miniconda3/lib -fstack-protector -L/Users/clayton.visger/miniconda3/lib/clang/4.0.1/lib     -lruby.2.4.1  -lpthread -ldl -lobjc "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return 0;
+6: }
+/* end */
+

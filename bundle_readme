@@ -1,0 +1,14 @@
+# Install Homebrew if you haven't
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# Install rbenv
+brew update
+brew install rbenv ruby-build
+rbenv init
+rbenv install 2.4.1
+rbenv global 2.4.1
+rbenv shell 2.4.1
+
+# Install bundler and jekyll
+gem install jekyll bundler
+rbenv rehash

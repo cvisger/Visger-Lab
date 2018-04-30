@@ -1,0 +1,14 @@
+current directory: /Users/clayton.visger/Desktop/github/Visger-Lab/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
+/Users/clayton.visger/miniconda3/bin/ruby -r ./siteconf20180430-25166-qkxfwn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/clayton.visger/Desktop/github/Visger-Lab/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
+make "DESTDIR=" clean
+
+current directory: /Users/clayton.visger/Desktop/github/Visger-Lab/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
+make "DESTDIR="
+compiling arena.c
+make: x86_64-apple-darwin13.4.0-clang: No such file or directory
+make: *** [arena.o] Error 1
+
+make failed, exit code 2
