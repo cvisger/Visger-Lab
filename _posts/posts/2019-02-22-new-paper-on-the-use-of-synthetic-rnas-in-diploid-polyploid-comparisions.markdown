@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper on the Use of Synthetic RNAs in diploid/polyploid Comparisons"
+title: "New paper on the use of synthetic RNAs in diploid/polyploid comparisons"
 date: 2019-02-22T13:23:09-08:00
 categories: posts
 ---
