@@ -10,4 +10,4 @@ The 2018/19 academic year has come and gone, and we finished it off by gathering
 We are also saying goodbye to Michael and Laura, as they are headed grad programs at Missou and UC Davis Genenetics and Genomics respectively. They will be sorely missed in the lab, but we are so thrilled for them!
 
 
-![lab19](/images/lab19.jpg){:class="img-responsive"}
+![lab19](https://i.imgur.com/9n4pBdu.jpg){:class="img-responsive"}

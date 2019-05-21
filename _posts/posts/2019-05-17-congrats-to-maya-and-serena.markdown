@@ -14,5 +14,5 @@ Serena was also accepted into the McNair Scholars Program this year!
 
 Great job!
 
-![award1](/images/maya_award.jpg){:class="img-responsive"}
-![award2](/images/serena_award.jpg){:class="img-responsive"}
+![award1](https://i.imgur.com/s132R1G.jpg)
+![award2](https://i.imgur.com/hl40s5v.jpg)
