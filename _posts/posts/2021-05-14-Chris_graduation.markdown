@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Huge congrats to Chris Hamel on completing his Masters degree"
-date: 2021-05-14 
+date: 2021-05-14T09:14:09-10:00
 categories: posts
 ---
 Chris is officially the first Master's student from our lab.  He started with me during my second year as a PI, and I definitely learned as much from this process as he as (if not more).   On top of the typical challenges associated with graduate work, Chris also found time to get married and buy his first home, and met setbacks related to the covid pandemic with maturity and determination.
